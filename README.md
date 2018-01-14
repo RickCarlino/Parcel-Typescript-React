@@ -10,6 +10,14 @@ A boilerplate that has all of the things I want for one-off prototypes of things
 
 # Develop
 
+```
+npm start
+```
+
+Then open [http://localhost:1234](http://localhost:1234).
+
+Dev away!
+
 # Production Builds
 
-This is intended for hobby projects. No build pipeline is provided other than `webpack-dev-server`.
+Coming soon!
