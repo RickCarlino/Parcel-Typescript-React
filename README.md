@@ -2,15 +2,18 @@
 
 A boilerplate that has all of the things I want for one-off prototypes of things.
 
+Also, **I'm learning Parcel.JS and this is where I try things out**. Please don't use this boilerplate to build your next startup, OK?
+
 # TODO
 
- * Index page that creates a thing.
- * List view page that shows things.
- * Add bootstrap, maybe.
+ * Jest tests
+ * State management
+ * Coverage tools n such.
 
 # Develop
 
 ```
+yarn install
 npm start
 ```
 
